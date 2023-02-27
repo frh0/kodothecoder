@@ -1,13 +1,14 @@
 # kodothecoder
 
-## an app where the user can upload thier own receipt and keep track on thier own expensess 
+## an app where the user can learn concepts of coding and palying it through !!
+<img width="1048" alt="Screenshot 1444-08-08 at 2 10 34 AM" src="https://user-images.githubusercontent.com/90031791/221710213-86b4e82c-5b4b-424c-8d97-62eaf9958786.png">
 
 
 ## Features
-- user can upload receipt via camera 
-- user can uload recipt from camera rool 
--  user can choose catgory in which this receipt belogns to 
-- it will categorise the receipt by the category
+- having acess on study matirials  
+- examine yourself and specific concept 
+-  alot of fun levels to learn ! 
+
 
 ## Requierements
 - Xcode 14
